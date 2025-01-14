@@ -3,7 +3,7 @@ import Navbar from './shared/Navbar';
 import Home from './component/Home';
 import About from './component/About';
 import Service from './component/Service';
-import Clients from './component/clients';
+import Clients from './component/Clients';
 import Gallery from './component/Gallery';
 import Contact from './component/Contact';
 import Footer from './shared/Footer';
