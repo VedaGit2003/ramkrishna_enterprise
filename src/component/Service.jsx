@@ -45,7 +45,7 @@ Contact us today to elevate your advertising game!</p>
       <img src="https://images.unsplash.com/photo-1537731121640-bc1c4aba9b80?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fFlvdXR1YmUlMjBmYWNlYm9vayUyMGFkZHxlbnwwfHwwfHx8MA%3D%3D" alt="Coffee" className="w-full h-64 object-cover" />
       <div className="p-6 text-center">
         <h3 className="text-xl font-medium text-gray-800 mb-2">Affordable Social Media Advertising Services</h3>
-        <p className="text-gray-700 text-base">We specializes in the production of high-quality chili powder.
+        <p className="text-gray-700 text-base">
         We provide YouTube, Facebook, and Instagram advertising services at reasonable prices to help you effectively reach your target audience. Our comprehensive advertising solutions are designed to enhance your brand visibility and engagement across popular social media platforms.
         </p>
         <p />
@@ -53,7 +53,7 @@ Contact us today to elevate your advertising game!</p>
     </div>
     {/* special card */}
     <div className="bg-white rounded-lg bg-gradient-to-tr from-pink-300 to-blue-300 p-0.5 shadow-lg overflow-hidden min-h-full">
-      <div className="text-center text-white font-medium">Special product: Comming Soon</div>
+      <div className="text-center text-white font-medium">Special product: Coming Soon</div>
       <video autoPlay loop muted playsInline className="w-full h-64 object-cover">
             <source src={Billboard} type="video/mp4" />
             Your browser does not support the video tag.
